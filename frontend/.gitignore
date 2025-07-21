@@ -1,24 +1,56 @@
-# Logs
-logs
+# ======================
+# Frontend Environment Files
+# ======================
+.env
+.env.local
+.env.*
+.env[.-]*
+!.env.example
+!.env*.example
+
+# ======================
+# Dependency and Build Files
+# ======================
+node_modules/
+dist/
+build/
+.cache/
+.next/  # Next.js
+.vite/  # Vite
+.svelte-kit/  # SvelteKit
+
+# ======================
+# Logs and Debug Files
+# ======================
+logs/
 *.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
-lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
-
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
+# ======================
+# Editor/IDE Files
+# ======================
+.vscode/
+.idea/
 .DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+
+# ======================
+# Testing Coverage
+# ======================
+coverage/
+.nyc_output/
+
+# ======================
+# Framework-Specific
+# ======================
+# React
+.eslintcache
+*.swp
+
+# Vue
+.vuepress/dist
+
+# Angular
+.angular/
