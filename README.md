@@ -75,15 +75,15 @@
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/1105d6e0-dde0-4d4e-a3f6-002dd68013da" width="250px" />
-      <br/><b>Login Screen</b>
+      <br/><b>Your Orders</b>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/36996421-9082-4ce2-ab8e-2707333c75e3" width="250px" />
-      <br/><b>Dashboard</b>
+      <br/><b>Home Page</b>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/73426a30-233c-443a-b796-b120e3d6ab27" width="250px" />
-      <br/><b>Profile Page</b>
+      <br/><b>Latest Collection</b>
     </td>
   </tr>
 </table>
@@ -93,15 +93,15 @@
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/9991e416-ee44-4533-803e-ad6e37879e98" width="250px" />
-      <br/><b>Notifications</b>
+      <br/><b>Notifications and Best Seller Page</b>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/7b54c852-af50-4727-8f5e-9c1e3560375a" width="250px" />
-      <br/><b>Orders Overview</b>
+      <br/><b>Category</b>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/9e1cb8a3-e2c6-4f53-b4b3-e11894806b4a" width="250px" />
-      <br/><b>Product Listing</b>
+      <br/><b>About Page</b>
     </td>
   </tr>
 </table>
@@ -111,15 +111,15 @@
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/69686155-cf2a-4043-9d5a-d797fefe03cf" width="250px" />
-      <br/><b>Invoice Page</b>
+      <br/><b>Contact Page</b>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/04f49496-38bb-4600-96ba-cec96a668062" width="250px" />
-      <br/><b>Contact Form</b>
+      <br/><b>Delivery Status</b>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/3c206b0e-6ad7-479b-8a3a-f9dc7818e118" width="250px" />
-      <br/><b>Address Management</b>
+      <br/><b>User Login</b>
     </td>
   </tr>
 </table>
@@ -129,15 +129,15 @@
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/7b95bbb1-bc15-4c6d-858c-059c41d7f9b0" width="250px" />
-      <br/><b>Transaction History</b>
+      <br/><b>Individual Product</b>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/ef39047b-9958-4293-a317-b732d68a3954" width="250px" />
-      <br/><b>Settings Page</b>
+      <br/><b>Order Page</b>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/7c5612f6-c119-4ad5-8533-139ddfc374bc" width="250px" />
-      <br/><b>Admin Panel</b>
+      <br/><b>Checkout</b>
     </td>
   </tr>
 </table>
@@ -165,15 +165,15 @@
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/98f1d7b2-f3c4-49ec-ab27-5db45cd444ac" width="250px" />
-      <br/><b>File Upload</b>
+      <br/><b>Product Add : By Admin</b>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/4118a0e3-d19e-430e-8afa-5caf340f6aae" width="250px" />
-      <br/><b>Email Confirmation</b>
+      <br/><b>All Listed Product : In Admin</b>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/611897bd-5c74-4ab1-8d8f-e26b0103f8f4" width="250px" />
-      <br/><b>Feedback Form</b>
+      <br/><b>Order Status update : By Admin</b>
     </td>
   </tr>
 </table>
@@ -183,14 +183,14 @@
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/3e322958-287d-4bf3-a578-01ba4c05fec2" width="250px" />
-      <br/><b>Analytics</b>
+      <br/><b>Admin Login</b>
     </td>
   </tr>
 </table>
 
 </div>
-## 📌 Tech Stack
 
+## 📌 Tech Stack
 
 ---
 
@@ -219,8 +219,8 @@
       <b>Axios</b>
     </td>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/1046/1046750.png" width="40" height="40"><br/>
-      <b>Toaster</b>
+      <img src="https://raw.githubusercontent.com/napthedev/toastify-react/main/logo.png" width="40" height="40"><br/>
+      <b>Toastify</b>
     </td>
   </tr>
 </table>
@@ -291,12 +291,11 @@
       <b>Recharts</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/ios-filled/50/000000/lock--v1.png" width="40" height="40"><br/>
+      <img src="https://static.thenounproject.com/png/991385-200.png" width="40" height="40"><br/>
       <b>Protected Routes</b>
     </td>
   </tr>
 </table>
----
 
 ### 🖥️ Frontend
 
@@ -332,12 +331,39 @@
 
 ## 💳 Payment Integration
 
-- ✅ **Stripe** — One-click checkout with card validation
-- ✅ **Razorpay** — Popular Indian gateway with UPI support
+Trendify offers seamless and secure payment experiences using two powerful gateways:
 
-Both integrated securely on the backend with server-side signature verification.
+### ⚡ Stripe  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" alt="Stripe" width="40"/>
+
+- ✅ **One-click Checkout** with real-time card validation  
+- 🔐 **Secure Server-side Integration** using signature verification  
+- 🌍 Supports all major international cards (Visa, Mastercard, etc.)  
+- 🧾 Auto-generated receipts and webhooks for order tracking  
 
 ---
+
+### 🇮🇳 Razorpay  
+<img src="https://raw.githubusercontent.com/Razorpay/razorpay-android-sample-app/master/.github/logo.png" alt="Razorpay" width="40"/>
+
+- ✅ **Popular Indian Payment Gateway**  
+- 🏦 Supports **UPI, Debit/Credit Cards, Netbanking, and Wallets**  
+- 🔐 Backend verification with Razorpay’s **HMAC-based signature check**  
+- 📱 Optimized for fast mobile checkout and native flows  
+
+---
+
+### 🔐 Backend Security Highlights
+
+- All payments are processed securely on the **server side**  
+- Webhooks are implemented to verify payment status and update orders  
+- Environment variables are used to protect API keys  
+- Sanitized inputs and proper error handling ensure maximum safety
+
+---
+
+💬 _Have questions or need help setting up payments?_  
+Check the [Stripe Docs](https://stripe.com/docs) or [Razorpay Docs](https://razorpay.com/docs/) for full integration guidance.
 
 ## 🚀 Getting Started
 
