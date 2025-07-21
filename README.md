@@ -1,5 +1,42 @@
-﻿# Trendify
-<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/1105d6e0-dde0-4d4e-a3f6-002dd68013da" />
+# 🛍️ Trendify — E-Commerce Platform
+
+**Trendify** is a full-featured, responsive e-commerce website built to deliver a modern online shopping experience. It includes a customer-facing storefront, admin panel for product & order management, secure payment gateways (Razorpay & Stripe), and full backend support.
+
+---
+
+## 🔥 Features
+
+### 🛒 User Panel (Frontend)
+- Responsive product listings & categories
+- Product search, filtering, and sorting
+- Add to cart & wishlist functionality
+- User registration & login (JWT-based)
+- Profile management
+- Order history and tracking
+- Checkout with Razorpay or Stripe
+- Email confirmation & password reset
+
+### 🛠️ Admin Panel
+- Dashboard with sales analytics
+- Product CRUD operations
+- Order management & fulfillment
+- User role management
+- Stock tracking and alerts
+- Secure admin authentication
+
+### 🧩 Backend (API)
+- RESTful APIs with token-based auth
+- MongoDB-based schema for Users, Products, Orders
+- Role-based access (admin/user)
+- Payment API integration (Stripe + Razorpay)
+- Error handling and validations
+
+---
+
+## 🖼️ Screenshots
+
+<p align="center">
+  <img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/1105d6e0-dde0-4d4e-a3f6-002dd68013da" />
 <img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/36996421-9082-4ce2-ab8e-2707333c75e3" />
 <img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/73426a30-233c-443a-b796-b120e3d6ab27" />
 <img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/9991e416-ee44-4533-803e-ad6e37879e98" />
@@ -9,6 +46,7 @@
 <img width="1920" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/04f49496-38bb-4600-96ba-cec96a668062" />
 <img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/3c206b0e-6ad7-479b-8a3a-f9dc7818e118" />
 <img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/7b95bbb1-bc15-4c6d-858c-059c41d7f9b0" />
+<img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/ef39047b-9958-4293-a317-b732d68a3954" />
 <img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/7c5612f6-c119-4ad5-8533-139ddfc374bc" />
 <img width="1920" height="1080" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/c70d6cad-bdcc-44e4-9fe3-1df824fb15b7" />
 <img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/3d098b45-23ad-4705-a325-a5499063183b" />
@@ -17,4 +55,71 @@
 <img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/4118a0e3-d19e-430e-8afa-5caf340f6aae" />
 <img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/611897bd-5c74-4ab1-8d8f-e26b0103f8f4" />
 <img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/3e322958-287d-4bf3-a578-01ba4c05fec2" />
+
+</p>
+
+---
+
+## 🧱 Tech Stack
+
+### 🖥️ Frontend
+- React.js (Vite)
+- Redux Toolkit / Context API
+- React Router
+- Tailwind CSS
+- Axios for API calls
+- toaster
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- MongoDB + Mongoose
+- JWT for Auth
+- Multer (Image Upload)
+- Razorpay & Stripe SDKs
+- cloudinary
+
+### 🛠 Admin Panel
+- React Admin / Custom Dashboard
+- Chart.js / Recharts for Analytics
+- Protected Routes (Admin only)
+
+---
+
+## 💳 Payment Integration
+
+- ✅ **Stripe** — One-click checkout with card validation
+- ✅ **Razorpay** — Popular Indian gateway with UPI support
+
+Both integrated securely on the backend with server-side signature verification.
+
+---
+
+## 🚀 Getting Started
+
+### 🛠 Install Dependencies
+
+#### 📁 Backend
+```bash
+cd backend
+npm install
+npm start
+
+#### 📁 Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+
+#### 📁 admin
+```bash
+cd admin
+npm install
+npm run dev
+
+
+---
+
+Let me know if you'd like me to split frontend/backend into their own repos or generate badges (build, license, stars, etc.).
+
 
