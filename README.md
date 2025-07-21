@@ -69,33 +69,55 @@ Trendify brings together **modern design**, **robust backend**, and **powerful a
 - ⚠️ **Robust Error Handling** — Centralized error responses & input validations  
 
 ---
-
 ## 🖼️ Screenshots
 
 <details>
   <summary>Click to expand 📸</summary>
 
-<p align="center">
+<div align="center">
+
+<!-- Card 1 -->
+<div style="display: inline-block; width: 300px; margin: 10px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden;">
   <img src="https://github.com/user-attachments/assets/1105d6e0-dde0-4d4e-a3f6-002dd68013da" width="300" />
+  <div style="padding: 10px;">
+    <h4>Login Screen</h4>
+    <p>User login interface with authentication fields.</p>
+  </div>
+</div>
+
+<!-- Card 2 -->
+<div style="display: inline-block; width: 300px; margin: 10px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden;">
   <img src="https://github.com/user-attachments/assets/36996421-9082-4ce2-ab8e-2707333c75e3" width="300" />
+  <div style="padding: 10px;">
+    <h4>Dashboard</h4>
+    <p>Main user dashboard displaying key metrics and stats.</p>
+  </div>
+</div>
+
+<!-- Repeat this card format for all images -->
+<!-- Card 3 -->
+<div style="display: inline-block; width: 300px; margin: 10px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden;">
   <img src="https://github.com/user-attachments/assets/73426a30-233c-443a-b796-b120e3d6ab27" width="300" />
+  <div style="padding: 10px;">
+    <h4>Profile Page</h4>
+    <p>User profile page with editable info and settings.</p>
+  </div>
+</div>
+
+<!-- Continue with remaining cards similarly -->
+
+<!-- Card 4 -->
+<div style="display: inline-block; width: 300px; margin: 10px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden;">
   <img src="https://github.com/user-attachments/assets/9991e416-ee44-4533-803e-ad6e37879e98" width="300" />
-  <img src="https://github.com/user-attachments/assets/7b54c852-af50-4727-8f5e-9c1e3560375a" width="300" />
-  <img src="https://github.com/user-attachments/assets/9e1cb8a3-e2c6-4f53-b4b3-e11894806b4a" width="300" />
-  <img src="https://github.com/user-attachments/assets/69686155-cf2a-4043-9d5a-d797fefe03cf" width="300" />
-  <img src="https://github.com/user-attachments/assets/04f49496-38bb-4600-96ba-cec96a668062" width="300" />
-  <img src="https://github.com/user-attachments/assets/3c206b0e-6ad7-479b-8a3a-f9dc7818e118" width="300" />
-  <img src="https://github.com/user-attachments/assets/7b95bbb1-bc15-4c6d-858c-059c41d7f9b0" width="300" />
-  <img src="https://github.com/user-attachments/assets/ef39047b-9958-4293-a317-b732d68a3954" width="300" />
-  <img src="https://github.com/user-attachments/assets/7c5612f6-c119-4ad5-8533-139ddfc374bc" width="300" />
-  <img src="https://github.com/user-attachments/assets/c70d6cad-bdcc-44e4-9fe3-1df824fb15b7" width="300" />
-  <img src="https://github.com/user-attachments/assets/3d098b45-23ad-4705-a325-a5499063183b" width="300" />
-  <img src="https://github.com/user-attachments/assets/458b5b46-1974-4fae-85e9-1d575d927845" width="300" />
-  <img src="https://github.com/user-attachments/assets/98f1d7b2-f3c4-49ec-ab27-5db45cd444ac" width="300" />
-  <img src="https://github.com/user-attachments/assets/4118a0e3-d19e-430e-8afa-5caf340f6aae" width="300" />
-  <img src="https://github.com/user-attachments/assets/611897bd-5c74-4ab1-8d8f-e26b0103f8f4" width="300" />
-  <img src="https://github.com/user-attachments/assets/3e322958-287d-4bf3-a578-01ba4c05fec2" width="300" />
-</p>
+  <div style="padding: 10px;">
+    <h4>Notifications</h4>
+    <p>Real-time alerts and updates for users.</p>
+  </div>
+</div>
+
+<!-- You can copy-paste the above structure and replace the image links and text for the remaining cards -->
+
+</div>
 
 </details>
 
