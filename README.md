@@ -60,31 +60,41 @@
 
 ---
 
-## 🧱 Tech Stack
-
-### 🖥️ Frontend
-- React.js (Vite)
-- Redux Toolkit / Context API
-- React Router
-- Tailwind CSS
-- Axios for API calls
-- toaster
-
-### ⚙️ Backend
-- Node.js
-- Express.js
-- MongoDB + Mongoose
-- JWT for Auth
-- Multer (Image Upload)
-- Razorpay & Stripe SDKs
-- cloudinary
-
-### 🛠 Admin Panel
-- React Admin / Custom Dashboard
-- Chart.js / Recharts for Analytics
-- Protected Routes (Admin only)
+## 📌 Tech Stack
 
 ---
+
+### 🖥️ Frontend
+
+[![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org)&nbsp;
+[![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)&nbsp;
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)&nbsp;
+<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;
+[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)](https://axios-http.com)&nbsp;
+<img alt="Toaster" src="https://img.shields.io/badge/Toaster-FFCC00?style=for-the-badge&logoColor=black"/>&nbsp;
+
+---
+
+### ⚙️ Backend
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)&nbsp;
+[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com)&nbsp;
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)&nbsp;
+<img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>&nbsp;
+[![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://jwt.io)&nbsp;
+[![Multer](https://img.shields.io/badge/Multer-FFCC00?style=for-the-badge&logoColor=black)](https://github.com/expressjs/multer)&nbsp;
+<img alt="Cloudinary" src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>&nbsp;
+<img alt="Razorpay" src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white"/>&nbsp;
+<img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>&nbsp;
+
+---
+
+### 🛠 Admin Panel
+
+<img alt="React Admin" src="https://img.shields.io/badge/React_Admin-2196F3?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
+<img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>&nbsp;
+<img alt="Recharts" src="https://img.shields.io/badge/Recharts-8884d8?style=for-the-badge&logo=recharts&logoColor=white"/>&nbsp;
+<img alt="Protected Routes" src="https://img.shields.io/badge/Protected_Routes-000000?style=for-the-badge&logoColor=white"/>&nbsp;
 
 ## 💳 Payment Integration
 
@@ -99,20 +109,28 @@ Both integrated securely on the backend with server-side signature verification.
 
 ### 🛠 Install Dependencies
 
-#### 📁 commamd to start the project
+#### 📁 Backend
 ```bash
 cd backend
 npm install
 npm start
-
+```
+#### 📁 Frontend
+```bash
 cd frontend
 npm install
 npm run dev
-
+```
+#### 📁 Admin
+```bash
 cd admin
 npm install
 npm run dev
+```
 
+### 📬 Connect With Me
 
+- **LinkedIn** - [www.linkedin.com/in/mohd-faiz-0493bb2a7"]
+- **Instagram** - [www.instagram.com/mr_faiz_.official]
 
 
