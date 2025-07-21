@@ -99,27 +99,20 @@ Both integrated securely on the backend with server-side signature verification.
 
 ### 🛠 Install Dependencies
 
-#### 📁 Backend
+#### 📁 commamd to start the project
 ```bash
 cd backend
 npm install
 npm start
 
-#### 📁 Frontend
-```bash
 cd frontend
 npm install
 npm run dev
 
-#### 📁 admin
-```bash
 cd admin
 npm install
 npm run dev
 
 
----
-
-Let me know if you'd like me to split frontend/backend into their own repos or generate badges (build, license, stars, etc.).
 
 
