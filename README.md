@@ -1,7 +1,5 @@
 # 🛍️ Trendify — E-Commerce Platform
 
-## 🛍️ About Trendify
-
 **Trendify** is a modern, full-stack, fully responsive e-commerce platform designed to replicate a professional online shopping experience. Built using the MERN stack with powerful admin controls and dual payment integration, Trendify offers everything you'd expect from a commercial-grade application.
 
 ### ✨ Key Highlights:
@@ -28,8 +26,6 @@
 - 🌐 **SEO-Optimized** — Clean URLs and metadata for better search visibility
 
 ---
-
-Trendify brings together **modern design**, **robust backend**, and **powerful admin tools** to provide a seamless experience for both customers and administrators.
 
 ## 🔥 Features
 
@@ -195,6 +191,111 @@ Trendify brings together **modern design**, **robust backend**, and **powerful a
 </div>
 ## 📌 Tech Stack
 
+
+---
+
+### 🖥️ Frontend
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"><br/>
+      <b>React</b>
+    </td>
+    <td align="center">
+      <img src="https://redux.js.org/img/redux.svg" width="40" height="40"><br/>
+      <b>Redux Toolkit</b>
+    </td>
+    <td align="center">
+      <img src="https://reactrouter.com/favicon-light.png" width="40" height="40"><br/>
+      <b>React Router</b>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"><br/>
+      <b>Tailwind CSS</b>
+    </td>
+    <td align="center">
+      <img src="https://axios-http.com/assets/logo.svg" width="40" height="40"><br/>
+      <b>Axios</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/1046/1046750.png" width="40" height="40"><br/>
+      <b>Toaster</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚙️ Backend
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://nodejs.org/static/images/logo.svg" width="40" height="40"><br/>
+      <b>Node.js</b>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="40" height="40"><br/>
+      <b>Express.js</b>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40"><br/>
+      <b>MongoDB</b>
+    </td>
+    <td align="center">
+      <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" width="80" height="30"><br/>
+      <b>Mongoose</b>
+    </td>
+    <td align="center">
+      <img src="https://jwt.io/img/pic_logo.svg" width="40" height="40"><br/>
+      <b>JWT</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/expressjs/multer/master/logo.png" width="40" height="40"><br/>
+      <b>Multer</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1664493052/logo/Cloudinary_Logo_White_bg.svg" width="40" height="40"><br/>
+      <b>Cloudinary</b>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/36025936?s=200&v=4" width="40" height="40"><br/>
+      <b>Razorpay</b>
+    </td>
+    <td align="center">
+      <img src="https://seeklogo.com/images/S/stripe-logo-17B0C7D4FE-seeklogo.com.png" width="40" height="40"><br/>
+      <b>Stripe</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Admin Panel
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/2546183?s=200&v=4" width="40" height="40"><br/>
+      <b>React Admin</b>
+    </td>
+    <td align="center">
+      <img src="https://www.chartjs.org/media/logo-title.svg" width="60" height="40"><br/>
+      <b>Chart.js</b>
+    </td>
+    <td align="center">
+      <img src="https://recharts.org/en-US/assets/logo.svg" width="40" height="40"><br/>
+      <b>Recharts</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-filled/50/000000/lock--v1.png" width="40" height="40"><br/>
+      <b>Protected Routes</b>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🖥️ Frontend
@@ -261,9 +362,25 @@ npm install
 npm run dev
 ```
 
-### 📬 Connect With Me
+## 📬 Connect With Me
 
-- **LinkedIn** - [www.linkedin.com/in/mohd-faiz-0493bb2a7"]
-- **Instagram** - [www.instagram.com/mr_faiz_.official]
+<div align="center">
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/mohd-faiz-0493bb2a7" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
+        <br/><b>LinkedIn</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/mr_faiz_.official" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50" height="50" alt="Instagram"/>
+        <br/><b>Instagram</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
+</div>
